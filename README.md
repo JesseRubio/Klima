@@ -1,5 +1,3 @@
-# Klima
-
 <p align="center">
   <img src="https://github.com/JesseRubio/Klima/blob/main/Screenshots/Klima.png" alt="Klima">
   <br>
