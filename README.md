@@ -1,9 +1,12 @@
-# WeatherAppGeneral
+# Klima
 
 <p align="center">
+  <img src="https://github.com/JesseRubio/Klima/blob/main/Screenshots/Klima.png" alt="Klima">
+  <br>
+  <br>
   <img src="https://img.shields.io/badge/Platform-iOS%2015.0+-lightgrey.svg" alt="Platform: iOS">
-<a href="https://developer.apple.com/swift/"><img src="https://img.shields.io/badge/Swift-6.3-orange.svg?style=flat" alt="Swift"/></a>
-<a href="https://github.com/JesseRubio/Klima/blob/main/LICENCE"><img src="http://img.shields.io/badge/license-MIT-brightgreen.svg" alt="MIT License"></a>
+  <a href="https://developer.apple.com/swift/"><img src="https://img.shields.io/badge/Swift-6.3-orange.svg?style=flat" alt="Swift"/></a>
+  <a href="https://github.com/JesseRubio/Klima/blob/main/LICENCE"><img src="http://img.shields.io/badge/license-MIT-brightgreen.svg" alt="MIT License"></a>
 </p>
 
 
@@ -22,7 +25,7 @@
 - Compatible with iPhone and iPad.
 
 # Libraries
-> <a href="https://developer.apple.com/documentation/weatherkit/">WeatherKit</a>\
+> <a href="https://developer.apple.com/documentation/weatherkit/">WeatherKit</a>
 
 ## Installation
 After pulling or downloading this repo. Go to project folder and open Klima.xcodeproj to run application.
