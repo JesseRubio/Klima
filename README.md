@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/JesseRubio/Klima/blob/main/Screenshots/Klima.png" alt="Klima">
+  <img src="https://github.com/JesseRubio/Klima/blob/main/Screenshots/Klima.png" width="300" alt="Klima">
   <br>
   <br>
   <img src="https://img.shields.io/badge/Platform-iOS%2015.0+-lightgrey.svg" alt="Platform: iOS">
