@@ -3,6 +3,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-iOS%2015.0+-lightgrey.svg" alt="Platform: iOS">
 <a href="https://developer.apple.com/swift/"><img src="https://img.shields.io/badge/Swift-6.3-orange.svg?style=flat" alt="Swift"/></a>
+<a href="https://github.com/JesseRubio/Klima/blob/main/LICENCE">
+  <img src="http://img.shields.io/badge/license-MIT-brightgreen.svg" alt="MIT License">
+</a>
 <a href="https://github.com/JesseRubio/Klima/blob/main/LICENCE"><img src="https://img.shields.io/github/license/erikmartens/NearbyWeather.svg?style=flat" alt="License: MIT">
 </p>
 
